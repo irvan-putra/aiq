@@ -32,4 +32,4 @@ This contains everything you need to run your app locally.
 
 ---
 
-Built with AI assistance (Instinct and others). Not everything has been reviewed by Irvan.
+Built with AI assistance (Instinct, Google AI Studio and others). Not everything has been reviewed by Irvan.
